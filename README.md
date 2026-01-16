@@ -49,4 +49,4 @@ Patt Vira: https://www.youtube.com/watch?v=KOgRn2Brcdo
 
 ## Contact / Links
 *GitHub repo link, website, demo URL.*
-GitHub:https://github.com/haochencai147-del/Skyone--CAI
+https://github.com/haochencai147-del/Skyone----Cai.git
