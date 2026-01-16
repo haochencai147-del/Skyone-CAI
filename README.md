@@ -25,8 +25,10 @@ Modern browsers (Chrome recommended)
 p5.js runtime environment
 
 ## Screenshots / Media
+![alt text](IMG_3473.jpeg)
+![alt text](<Screenshot 2025-12-28 at 23.16.19.png>)
 ![alt text](<Screenshot 2025-12-28 at 23.17.36.png>)
-![alt text](<Screenshot 2025-12-28 at 23.17.36.png>)
+
 
 
 
