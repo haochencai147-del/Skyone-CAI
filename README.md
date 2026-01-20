@@ -2,6 +2,7 @@
 
 ## Short Description
 "Unreturnable Memory" is an interactive generative poetry system. Through the grid sensed by the camera and the floating Chinese characters, time is presented as a state of "accumulation, delay and existence", rather than a linear flow.
+
 Work video: https://vimeo.com/1150205527
 
 ## Concept / Intent
@@ -37,25 +38,20 @@ Tianyi Cai
 This project is a personal artistic and academic creation, suitable for display and teaching purposes.
 
 References
-Bergson, H. (1910) Time and Free Will: An Essay on the Immediate Data of
-Consciousness. London: George Allen & Unwin.
-Reas, C. and Fry, B. (2007) Processing: A Programming Handbook for Visual
-Designers and Artists. Cambridge, MA: MIT Press.
+Bergson, H. (1910) Time and Free Will: An Essay on the Immediate Data ofConsciousness. London: George Allen & Unwin.
+
+Reas, C. and Fry, B. (2007) Processing: A Programming Handbook for Visual Designers and Artists. Cambridge, MA: MIT Press.
 
 Technical References
-Coding Challenge – Perlin Noise Flow Field:
-https://www.youtube.com/watch?v=BjoM9oKOAKY
+Coding Challenge – Perlin Noise Flow Field: https://www.youtube.com/watch?v=BjoM9oKOAKY
 
 Flow Field Example: https://editor.p5js.org/frederer/sketches/DbWjEErKy
 
-How to create a flow field-- QXuR-XX_s
-Colorful Coding: https://www.youtube.com/watch?v=1-
+How to create a flow field -- QXuR-XX_s Colorful Coding: https://www.youtube.com/watch?v=1-
 
-The combination and control of Webcam and Flow Field:
-https://editor.p5js.org/isg2038/sketches/gnJAx-NVW
+The combination and control of Webcam and Flow Field: https://editor.p5js.org/isg2038/sketches/gnJAx-NVW
 
-It provides many resource links, and explains how the flow field controls movement--
-Patt Vira: https://www.youtube.com/watch?v=KOgRn2Brcdo
+It provides many resource links, and explains how the flow field controls movement -- Patt Vira: https://www.youtube.com/watch?v=KOgRn2Brcdo
 
 ## Contact / Links
 *GitHub repo link, website, demo URL.*
