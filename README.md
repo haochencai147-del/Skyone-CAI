@@ -38,11 +38,13 @@ Tianyi Cai
 This project is a personal artistic and academic creation, suitable for display and teaching purposes.
 
 References
+
 Bergson, H. (1910) Time and Free Will: An Essay on the Immediate Data ofConsciousness. London: George Allen & Unwin.
 
 Reas, C. and Fry, B. (2007) Processing: A Programming Handbook for Visual Designers and Artists. Cambridge, MA: MIT Press.
 
 Technical References
+
 Coding Challenge – Perlin Noise Flow Field: https://www.youtube.com/watch?v=BjoM9oKOAKY
 
 Flow Field Example: https://editor.p5js.org/frederer/sketches/DbWjEErKy
